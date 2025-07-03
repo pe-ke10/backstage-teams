@@ -1,0 +1,7 @@
+apiVersion: backstage.io/v1alpha1
+kind: System
+metadata:
+  name: banco
+  description: Plataforma para originación de créditos
+spec:
+  owner: plataforma-core

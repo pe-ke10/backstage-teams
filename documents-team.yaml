@@ -1,0 +1,11 @@
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+  name: documents-team
+  description: Equipo responsable de la gestión de documentos
+spec:
+  type: team
+  profile:
+    displayName: Documents Team
+    email: documents-team@tuempresa.com
+  children: []

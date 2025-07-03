@@ -5,6 +5,7 @@ metadata:
   description: Equipo encargado del originado de préstamos
 spec:
   type: team
+  parent: banco
   profile:
     displayName: Origination Team
     email: origination-team@tuempresa.com

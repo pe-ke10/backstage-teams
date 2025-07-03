@@ -1,0 +1,11 @@
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+  name: origination-team
+  description: Equipo encargado del originado de préstamos
+spec:
+  type: team
+  profile:
+    displayName: Origination Team
+    email: origination-team@tuempresa.com
+  children: []

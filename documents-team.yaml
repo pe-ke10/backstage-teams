@@ -5,6 +5,7 @@ metadata:
   description: Equipo responsable de la gestión de documentos
 spec:
   type: team
+  parent: banco
   profile:
     displayName: Documents Team
     email: documents-team@tuempresa.com

@@ -1,0 +1,11 @@
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+  name: elegibility-team
+  description: Equipo que define la elegibilidad del cliente
+spec:
+  type: team
+  profile:
+    displayName: Elegibility Team
+    email: elegibility-team@tuempresa.com
+  children: []

@@ -5,6 +5,7 @@ metadata:
   description: Equipo que define la elegibilidad del cliente
 spec:
   type: team
+  parent: banco
   profile:
     displayName: Elegibility Team
     email: elegibility-team@tuempresa.com

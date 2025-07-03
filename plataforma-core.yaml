@@ -6,6 +6,6 @@ metadata:
 spec:
   type: team
   profile:
-    displayName: Cote
+    displayName: plataforma-core
     email: core-team@tuempresa.com
   children: []

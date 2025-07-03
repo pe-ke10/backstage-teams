@@ -1,0 +1,11 @@
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+  name: plataforma-core
+  description: Equipo core
+spec:
+  type: team
+  profile:
+    displayName: Cote
+    email: core-team@tuempresa.com
+  children: []
